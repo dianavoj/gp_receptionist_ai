@@ -2,7 +2,7 @@
 Simple project working with fictional data calculating the Return on Invesment on AI receptionist at a GP surgery using Power BI.
 
 **Background** <br/>
-With increasing implementation of AI across the industreis, healthcare is no exception. With some GP surgeries already implementing AI it is important to evaluate the costs and workload handled by AI. At the time of writing there is limited published data on factors such as: which GP surgeries have implemented AI, how they are distributing the call volume, what are the costs implicated, the success rate and importantly, the patient satisfaction. These factors are important for future research and analysis. 
+With increasing implementation of AI across the industries, healthcare is no exception. With some GP surgeries already implementing AI it is important to evaluate the costs and workload handled by AI. At the time of writing there is limited published data on factors such as: which GP surgeries have implemented AI, how they are distributing the call volume, what are the costs implicated, the success rate and importantly, the patient satisfaction. These factors are important for future research and analysis. 
 
 **Goal**<br/>
 To evaluate the potential impact of an AI GP receptionist by quantifying how much workload it can take on and what could be potential financial savings. 
